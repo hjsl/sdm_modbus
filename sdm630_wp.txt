@@ -1,0 +1,87 @@
+SDM630(192.168.40.2:502, connectionType.TCP: timeout=1, retries=3, unit=0x4):
+
+Input Registers:
+	P1 Voltage: 238.59V
+	P2 Voltage: 238.36V
+	P3 Voltage: 238.06V
+	P1 Current: 0.56A
+	P2 Current: 0.50A
+	P3 Current: 0.48A
+	P1 Power (Active): 14.54W
+	P2 Power (Active): 13.69W
+	P3 Power (Active): 0.00W
+	P1 Power (Apparent): 129.59VA
+	P2 Power (Apparent): 116.24VA
+	P3 Power (Apparent): 112.43VA
+	P1 Power (Reactive): -128.77VAr
+	P2 Power (Reactive): -115.43VAr
+	P3 Power (Reactive): -112.35VAr
+	P1 Power Factor: 0.11
+	P2 Power Factor: 0.12
+	P3 Power Factor: 0.04
+	P1 Phase Angle: -83.56°
+	P2 Phase Angle: -83.24°
+	P3 Phase Angle: -87.93°
+	L-N Voltage: 238.34V
+	L-N Current: 0.51A
+	Total Line Current: 1.54A
+	Total Power (Active): 28.23W
+	Total Power (Apparent): 358.01VA
+	Total Power (Reactive): -356.55VAr
+	Total Power Factor: 0.09
+	Total Phase Angle: -84.96°
+	Frequency: 49.94Hz
+	Imported Energy (Active): 11174.92kWh
+	Exported Energy (Active): 0.00kWh
+	Imported Energy (Reactive): 1.32kVArh
+	Exported Energy (Reactive): 5845.63kVArh
+	Total Energy (Apparent): 12612.12kVAh
+	Total Current: 67864.84A
+	Total Import Demand Power (Active): 27.47W
+	Maximum Import Demand Power (Apparent): 7118.06VA
+	Import Demand Power (Active): 0.00W
+	Maximum Import Demand Power (Active): 0.00W
+	Export Demand Power (Active): 0.00W
+	Maximum Export Demand Power (Active): 0.00W
+	Total Demand Power (Apparent): 352.20VA
+	Maximum System Power (Apparent): 7118.14VA
+	Neutral Demand Current: 0.07A
+	Maximum Neutral Demand Current: 7.20A
+	P1-P2 Voltage: 413.03V
+	P2-P3 Voltage: 412.57V
+	P3-P1 Voltage: 412.76V
+	L-L Voltage: 412.78V
+	Neutral Current: 0.07A
+	P1-N Voltage THD: 3.44%
+	P2-N Voltage THD: 3.42%
+	P3-N Voltage THD: 3.49%
+	P1 Current THD: 0.00%
+	P2 Current THD: 0.00%
+	P3 Current THD: 0.00%
+	L-N Voltage THD: 3.50%
+	Current THD: 0.00%
+	P1 Demand Current: 0.56A
+	P2 Demand Current: 0.49A
+	P3 Demand Current: 0.48A
+	Maximum P1 Demand Current: 11.64A
+	Maximum P2 Demand Current: 11.78A
+	Maximum P3 Demand Current: 12.06A
+	P1-P2 Voltage THD: 0.00%
+	P2-P3 Voltage THD: 0.00%
+	P3-P1 Voltage THD: 0.00%
+	L-L Voltage THD: 0.00%
+	Total Energy (Active): 11174.92kWh
+	Total Energy (Reactive): 5846.95kVArh
+
+Holding Registers:
+	Demand Time: 60s
+	Demand Period: 60s
+	System Voltage: 220.00V
+	System Current: 10.00A
+	System Type: 3P4W
+	Relay Pulse Width: 100ms
+	Network Parity Stop: N-1
+	Meter ID: 4
+	Baud Rate: 19200
+	System Power: 6600.00W
+	P1 Divisor: 0.001kWh/imp
